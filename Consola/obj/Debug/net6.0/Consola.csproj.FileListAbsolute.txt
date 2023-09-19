@@ -1,0 +1,15 @@
+C:\Users\tiago.f.santos.GLINTT\Desktop\TestesIPB\Consola\bin\Debug\net6.0\Consola.exe
+C:\Users\tiago.f.santos.GLINTT\Desktop\TestesIPB\Consola\bin\Debug\net6.0\Consola.deps.json
+C:\Users\tiago.f.santos.GLINTT\Desktop\TestesIPB\Consola\bin\Debug\net6.0\Consola.runtimeconfig.json
+C:\Users\tiago.f.santos.GLINTT\Desktop\TestesIPB\Consola\bin\Debug\net6.0\Consola.dll
+C:\Users\tiago.f.santos.GLINTT\Desktop\TestesIPB\Consola\bin\Debug\net6.0\Consola.pdb
+C:\Users\tiago.f.santos.GLINTT\Desktop\TestesIPB\Consola\obj\Debug\net6.0\Consola.csproj.AssemblyReference.cache
+C:\Users\tiago.f.santos.GLINTT\Desktop\TestesIPB\Consola\obj\Debug\net6.0\Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago.f.santos.GLINTT\Desktop\TestesIPB\Consola\obj\Debug\net6.0\Consola.AssemblyInfoInputs.cache
+C:\Users\tiago.f.santos.GLINTT\Desktop\TestesIPB\Consola\obj\Debug\net6.0\Consola.AssemblyInfo.cs
+C:\Users\tiago.f.santos.GLINTT\Desktop\TestesIPB\Consola\obj\Debug\net6.0\Consola.csproj.CoreCompileInputs.cache
+C:\Users\tiago.f.santos.GLINTT\Desktop\TestesIPB\Consola\obj\Debug\net6.0\Consola.dll
+C:\Users\tiago.f.santos.GLINTT\Desktop\TestesIPB\Consola\obj\Debug\net6.0\refint\Consola.dll
+C:\Users\tiago.f.santos.GLINTT\Desktop\TestesIPB\Consola\obj\Debug\net6.0\Consola.pdb
+C:\Users\tiago.f.santos.GLINTT\Desktop\TestesIPB\Consola\obj\Debug\net6.0\Consola.genruntimeconfig.cache
+C:\Users\tiago.f.santos.GLINTT\Desktop\TestesIPB\Consola\obj\Debug\net6.0\ref\Consola.dll
